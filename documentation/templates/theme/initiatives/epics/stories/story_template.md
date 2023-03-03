@@ -1,18 +1,17 @@
-"As a developer, I want to integrate Google Analytics into the website so that we can gather data on user behavior and website usage."
+"As a [user role], I want to [do something] so that [achieve a specific goal]."
 
-### Acceptance Criteria:
+By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
 
-1. Google Analytics has been successfully integrated into the website.
-2. Tracking code has been implemented to gather data on user behavior and website usage.
-3. Data accuracy has been verified through testing.
-4. The use of Google Analytics has been communicated in the website's privacy policy.
-5. The website is compliant with all relevant privacy regulations and laws, including GDPR.
+"As a customer, I want to view my order history so that I can track my past purchases."
+
+Acceptance Criteria:
+
+The order history page displays a list of all past orders, including the date, order number, and total cost.
+Each order in the list is clickable and leads to a detailed view of the order.
+The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
+The order history page can be accessed from the customer account dashboard.
+The order history page is only accessible to authenticated customers.
 
 
-# List Tasks related to this theme
-1. [Task 1: Research and Select Google Analytics Version](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
-2. [Task 2: Obtain Approval for Google Analytics Use](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template_2.md)
-3. [Task 3: Familiarize with Google Analytics Integration and Implementation](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template_3.md)
-4. [Task 4: Integrate Google Analytics into the Website](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template_4.md)
-5. [Task 5: Implement Tracking Code](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template_5.md)
-6. [Task 6: Update Privacy Policy](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template_6.md)
+# List Stories related to this theme
+1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
