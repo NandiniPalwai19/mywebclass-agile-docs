@@ -35,4 +35,4 @@ Improved development and deployment process for the LMS, resulting in increased 
 High
 
 # List stories related to this theme
-1. [Story: CI/CD Implementation]
+1. [Story: Integrate Continuous Integration and Continuous Deployment (CI/CD)]
