@@ -1,4 +1,4 @@
-# "Google Analytics Integration"
+## "Google Analytics Integration"
 
 ### Description: 
 This epic will focus on integrating Google Analytics into the website and using the tool to track user behavior and gather data on website usage.
@@ -37,5 +37,6 @@ Improved website optimization based on data-driven decisions, increased understa
 
 ### Priority: High
 
-# List stories related to this theme
+## List stories related to this theme
+
 1. [Story: Google Analytics Integration](/documentation/templates/theme/initiatives/epics/stories/story_template.md)

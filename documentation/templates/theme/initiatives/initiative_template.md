@@ -1,4 +1,4 @@
-### Implement Google Analytics to Track User Behavior and Gather Data on Website Usage
+### Implementation of Google Analytics to Track User Behavior and Gather Data on Website Usage
 
 ### Objective: 
 To gain insights into user behavior and website usage through the implementation of Google Analytics.
@@ -38,5 +38,6 @@ This initiative will focus on integrating Google Analytics into the website and 
 3. Improved website optimization based on data analysis and recommendations.
 4. Compliance with all relevant privacy regulations and laws.
 
-# List epics related to this theme
+## List epics related to this theme
+
 1. [Google Analytics Integration](/documentation/templates/theme/initiatives/epics/epic_template.md)

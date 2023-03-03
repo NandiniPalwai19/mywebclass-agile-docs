@@ -1,4 +1,4 @@
-"As a developer, I want to integrate Google Analytics into the website so that we can gather data on user behavior and website usage."
+"As a developer, I want to integrate Google Analytics into the website so that we can gather data on user behaviour and website usage."
 
 ### Acceptance Criteria:
 
@@ -9,7 +9,8 @@
 5. The website is compliant with all relevant privacy regulations and laws, including GDPR.
 
 
-# List Tasks related to this theme
+## List Tasks related to this theme
+
 1. [Task 1: Research and Select Google Analytics Version](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
 2. [Task 2: Obtain Approval for Google Analytics Use](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template_2.md)
 3. [Task 3: Familiarize with Google Analytics Integration and Implementation](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template_3.md)
