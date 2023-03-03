@@ -38,5 +38,5 @@ A comprehensive privacy policy that protects user data and ensures compliance wi
 
 
 # List stories related to this theme
-1. [Story: Google Analytics Integration](/documentation/templates/theme/initiatives/epics/stories/story_template
+1. [Story: Develop Privacy Policy](/documentation/templates/theme/initiatives/epics/stories/story_template_2.md)
 
