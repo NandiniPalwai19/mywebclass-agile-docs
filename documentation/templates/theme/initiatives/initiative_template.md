@@ -1,4 +1,3 @@
-## Initiative Template: 
 ### Implement Google Analytics to Track User Behavior and Gather Data on Website Usage
 
 ### Objective: 

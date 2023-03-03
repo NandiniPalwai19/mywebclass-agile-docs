@@ -35,4 +35,4 @@ Improved development and deployment process for the LMS, resulting in increased 
 High
 
 # List stories related to this theme
-1. [Story: CI/CD Implementation](/documentation/templates/theme/initiatives/epics/stories/story_template_3_1.md)
+1. [Story: CI/CD Implementation]
