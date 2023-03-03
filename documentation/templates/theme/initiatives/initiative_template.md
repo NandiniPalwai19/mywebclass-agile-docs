@@ -40,4 +40,4 @@ This initiative will focus on integrating Google Analytics into the website and 
 4. Compliance with all relevant privacy regulations and laws.
 
 # List epics related to this theme
-1. [Google Analytics Integration](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Google Analytics Integration](/documentation/templates/theme/initiatives/epics/epic_template.md)

@@ -38,4 +38,4 @@ Improved website optimization based on data-driven decisions, increased understa
 ### Priority: High
 
 # List stories related to this theme
-1. [Story: Google Analytics Integration](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story: Google Analytics Integration](/documentation/templates/theme/initiatives/epics/stories/story_template.md)
