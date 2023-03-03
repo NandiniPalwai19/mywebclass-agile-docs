@@ -1,4 +1,3 @@
-
 ## Implement DevOps Practices to Support the Development Process and Improve the Reliability and Scalability of the LMS
 
 ### Description: 
