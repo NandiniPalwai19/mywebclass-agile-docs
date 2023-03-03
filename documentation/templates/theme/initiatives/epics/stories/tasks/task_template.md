@@ -1,22 +1,15 @@
-### Task Template: Integrating Google Analytics into the Website
+Task Title: [Short, descriptive title for the task]
 
-### Task Title: 
-"Research and Select Google Analytics Version"
+User Story: [Reference the user story that this task supports]
 
-### User Story: 
-As a developer, I want to integrate Google Analytics into the website so that we can gather data on user behavior and website usage.
+Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
 
-### Description: 
-Research and select a suitable version of Google Analytics to integrate into the website. Consider factors such as compatibility with the website, cost, and functionality.
+Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
 
-### Effort Estimate: 
-2 hours
+Assigned To: [Assign the task to a team member who will be responsible for completing it]
 
-### Assigned To: 
-[Insert name]
+Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
 
-### Priority: 
-High
+Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
 
-### Status: 
-Not Started
+Notes: [Include]
