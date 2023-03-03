@@ -24,4 +24,6 @@
 
 # List Tasks related to this theme
 
-1. [Task 1: ](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Task 1: Research Relevant Government Regulations and Laws](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template_2_1.md)
+2. [Task 2: Determine User Data Storage and Protection](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template_2_2.md)
+3. [Task 3: Develop Comprehensive Privacy Policy](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template_2_3.md)
