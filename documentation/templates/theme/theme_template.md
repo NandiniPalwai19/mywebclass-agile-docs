@@ -7,5 +7,8 @@ key goals of this. "
 # List initiatives related to this theme
 
 1. [Implement Google Analytics to track user behavior and gather data on website usage.](/documentation/templates/theme/initiatives/initiative_template.md)
-2. Create a privacy policy that complies with relevant government regulations and laws and protects user data.
-3. Implement DevOps practices to support the development process and improve the reliability and scalability of the LMS.
+2. [Create a privacy policy that complies with relevant government regulations and laws and protects user data.](/documentation/templates/theme/initiatives/initiative_template_2.md)
+3. [Implement DevOps practices to support the development process and improve the reliability and scalability of the LMS.](/documentation/templates/theme/initiatives/initiative_template_3.md)
+
+# List epics related to this theme
+1. [Google Analytics Integration](/documentation/templates/theme/initiatives/epics/epic_template.md)
