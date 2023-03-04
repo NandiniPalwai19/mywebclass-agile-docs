@@ -33,3 +33,7 @@ Increased security and protection of user data, resulting in a better user exper
 
 ### Priority: 
 High
+
+# List of Story for this theme
+
+1. [Story: Implement Security Best Practices for the LMS](/documentation/templates/theme/initiatives/epics/stories/story_template_3_5.md)

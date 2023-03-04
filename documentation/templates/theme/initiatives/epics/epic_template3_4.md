@@ -33,3 +33,6 @@ Improved efficiency and reliability of the LMS, resulting in a better user exper
 
 ### Priority: 
 High
+
+# List stories related to this theme
+1. [Story: Improve Infrastructure Management and Deployment Processes](/documentation/templates/theme/initiatives/epics/stories/story_template_3_4.md)
