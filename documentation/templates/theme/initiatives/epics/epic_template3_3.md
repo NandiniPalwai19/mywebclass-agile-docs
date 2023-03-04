@@ -33,3 +33,6 @@ Improved development process and increased reliability and scalability of the LM
 
 ### Priority: 
 Medium
+
+# List stories related to this theme
+1. [Story: Enhance Collaboration and Communication between Development and Operations Teams](/documentation/templates/theme/initiatives/epics/stories/story_template_3_3.md)

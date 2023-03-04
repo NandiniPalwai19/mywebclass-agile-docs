@@ -36,4 +36,4 @@ Improved reliability and stability of the LMS, resulting in a better user experi
 High
 
 # List stories related to this theme
-1. [Story: Implement Automated Testing and Monitoring]
+1. [Story: Implement Automated Testing and Monitoring](/documentation/templates/theme/initiatives/epics/stories/story_template_3_2.md)
