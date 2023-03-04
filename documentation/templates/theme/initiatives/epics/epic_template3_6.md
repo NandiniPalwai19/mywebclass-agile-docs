@@ -33,3 +33,7 @@ Improved efficiency, reliability, and scalability of the LMS, resulting in a bet
 
 ### Priority: 
 Medium
+
+### List of Stories for this epic
+
+1. [Story : Evaluate and Continuously Improve DevOps Practices for the LMS](/documentation/templates/theme/initiatives/epics/stories/story_template_3_6.md)
