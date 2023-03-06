@@ -2,4 +2,4 @@
 
 # List initiatives related to this theme
 1. [Implement DevOps to Support Seamless Development Operations](/documentation/templates/theme/initiatives/initiative_template.md)
-2. [Ensure Compliance with Government Regulations and Laws](/documentation/templates/theme/initiatives/initiative_template.md)
+2. [Ensure Compliance with Government Regulations and Laws](/documentation/templates/theme/initiatives/initiative_template_2.md)
