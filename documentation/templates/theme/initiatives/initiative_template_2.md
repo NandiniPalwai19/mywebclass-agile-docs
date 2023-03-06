@@ -40,24 +40,27 @@ Limited budget.
 Limited resources.
 Assumptions:
 
-The team has the necessary skills and expertise to identify and comply with relevant government regulations and laws.
-Risks:
+### The team has the necessary skills and expertise to identify and comply with relevant government regulations and laws.
 
-Changes in government regulations and laws.
-Lack of support from management.
-Limited resources.
-Dependencies:
+### Risks:
 
-Availability of necessary resources.
-Availability of team members.
-Team:
+1. Changes in government regulations and laws.
+2. Lack of support from management.
+3. Limited resources.
 
-Project Manager
-Compliance Manager
-Legal Counsel
-Product Manager
-Developers
-Operations Manager
+### Dependencies:
+
+1. Availability of necessary resources.
+2. Availability of team members.
+
+### Team:
+
+1. Project Manager
+2. Compliance Manager
+3. Legal Counsel
+4. Product Manager
+5. Developers
+6. Operations Manager
 
 # List of Epics for this initiative
 1. [Epic: Ensure Compliance with Government Regulations and Laws] (/documentation/templates/theme/initiatives/epics/epic_template_2.md)
