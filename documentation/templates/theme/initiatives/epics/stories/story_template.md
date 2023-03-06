@@ -1,14 +1,14 @@
 
 "As a developer, I want to have a DevOps environment that supports continuous integration, deployment, and delivery, so that I can focus on coding and testing without worrying about deployment and infrastructure."
 
-Acceptance Criteria:
+## Acceptance Criteria:
 
-The DevOps toolchain is integrated with version control, continuous integration, and continuous deployment tools.
-The build, test, and deployment pipelines are automated and configured to deploy code to production automatically.
-The infrastructure is configured as code and can be provisioned automatically.
-The deployment processes are secure and compliant with industry standards and regulations.
-The deployment processes are documented and easily accessible.
-The DevOps environment is easily accessible and can be used by all team members.
+1. The DevOps toolchain is integrated with version control, continuous integration, and continuous deployment tools.
+2. The build, test, and deployment pipelines are automated and configured to deploy code to production automatically.
+3. The infrastructure is configured as code and can be provisioned automatically.
+4. The deployment processes are secure and compliant with industry standards and regulations.
+5. The deployment processes are documented and easily accessible.
+6. The DevOps environment is easily accessible and can be used by all team members.
 
 # List Tasks related to this theme
 1. [Task 1: Integrate DevOps toolchain with version control, continuous integration, and continuous deployment tools](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
