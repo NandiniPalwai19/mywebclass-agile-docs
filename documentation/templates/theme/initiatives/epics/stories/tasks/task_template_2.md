@@ -13,7 +13,7 @@
 
 ### Effort Estimate: 8 hours
 
-### Assigned To: Alice Lee
+### Assigned To: [Name]
 
 ### Priority: High
 
@@ -36,7 +36,7 @@
 
 ### Effort Estimate: 16 hours
 
-### Assigned To: John Smith
+### Assigned To: [Name]
 
 ### Priority: High
 
@@ -59,7 +59,7 @@
 
 ### Effort Estimate: 8 hours
 
-### Assigned To: Sarah Lee
+### Assigned To: [Name]
 
 ### Priority: High
 
@@ -82,7 +82,7 @@
 
 ### Effort Estimate: 12 hours
 
-### Assigned To: David Nguyen
+### Assigned To: [Name]
 
 ### Priority: High
 
