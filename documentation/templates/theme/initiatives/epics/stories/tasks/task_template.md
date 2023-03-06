@@ -53,7 +53,7 @@
 
 ### Effort Estimate: 24 hours
 
-### Assigned To: David Nguyen
+### Assigned To: [Name]
 
 ### Priority: High
 
@@ -73,7 +73,7 @@
 4. The team is trained on the policies and procedures.
 5. Effort Estimate: 16 hours
 
-### Assigned To: Jane Kim
+### Assigned To: [Name]
 
 ### Priority: High
 
