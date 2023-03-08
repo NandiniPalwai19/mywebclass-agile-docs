@@ -1,4 +1,4 @@
-Epic 1: Develop and Implement Basic Web Template
+## Epic 1: Develop and Implement Basic Web Template
 User Story 1: As a website user, I want the web template to be easy to navigate so that I can find the information I need quickly.
 
 Acceptance Criteria:
@@ -20,7 +20,8 @@ Acceptance Criteria:
 The web template uses a modular design that makes it easy to add or remove content.
 The web template uses a content management system that allows administrators to make updates without editing code.
 The web template uses a responsive design that adjusts to different screen sizes.
-Epic 2: Set Up a DevOps Process
+
+## Epic 2: Set Up a DevOps Process
 User Story 1: As a developer, I want to use a version control system so that I can easily collaborate with my team members.
 
 Acceptance Criteria:
@@ -43,5 +44,12 @@ The monitoring system tracks website traffic, uptime, and error rates.
 The monitoring system alerts the team if there are any performance or security issues.
 The monitoring system logs all website activity for analysis and troubleshooting.
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+# List Tasks related to this theme
+For User Story 1:
+1. [Task 1: Develop Navigation Menu](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+2. [Task 2: Test Navigation Menu](/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+
+For User Story 2:
+1. [Task 1: Develop Color Scheme and Typography]
+2. [Task 2: Source High-Quality Images and Graphics]
+3. [Task 3: ]
