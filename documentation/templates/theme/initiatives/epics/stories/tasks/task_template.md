@@ -7,9 +7,10 @@ User Story: As a website user, I want the web template to be easy to navigate so
 
 Description: Develop a navigation menu that is easy to use and clearly displays all major sections of the website. The menu should be responsive and adjust to different screen sizes. Acceptance criteria include:
 
-Navigation menu is integrated into the web template.
-Navigation menu displays all major sections of the website.
-Navigation menu is responsive.
+- Navigation menu is integrated into the web template.
+- Navigation menu displays all major sections of the website.
+- Navigation menu is responsive.
+
 Effort Estimate: 4 hours
 
 Assigned To: John
@@ -27,9 +28,10 @@ User Story: As a website user, I want the web template to be easy to navigate so
 
 Description: Test the navigation menu to ensure it is easy to use and functions correctly. Acceptance criteria include:
 
-Navigation menu displays correctly on all screen sizes.
-All links in the navigation menu are functional and lead to the correct pages.
-Navigation menu is intuitive and easy to use.
+- Navigation menu displays correctly on all screen sizes.
+- All links in the navigation menu are functional and lead to the correct pages.
+- Navigation menu is intuitive and easy to use.
+
 Effort Estimate: 2 hours
 
 Assigned To: Jane
@@ -48,9 +50,10 @@ User Story: As a website user, I want the web template to be visually appealing 
 
 Description: Develop a color scheme and typography that is consistent throughout the website and is visually appealing. Acceptance criteria include:
 
-Color scheme is consistent throughout the website.
-Typography is consistent throughout the website.
-Color scheme and typography are visually appealing.
+- Color scheme is consistent throughout the website.
+- Typography is consistent throughout the website.
+- Color scheme and typography are visually appealing.
+
 Effort Estimate: 6 hours
 
 Assigned To: Sarah
@@ -67,9 +70,10 @@ User Story: As a website user, I want the web template to be visually appealing 
 
 Description: Source high-quality images and graphics that are relevant to the content of the website. Acceptance criteria include:
 
-Images and graphics are high-quality and relevant to the content.
-Images and graphics are optimized for web use.
-Images and graphics are integrated into the web template.
+- Images and graphics are high-quality and relevant to the content.
+- Images and graphics are optimized for web use.
+- Images and graphics are integrated into the web template.
+
 Effort Estimate: 8 hours
 
 Assigned To: David
@@ -89,9 +93,10 @@ User Story: As a developer, I want to use a version control system so that I can
 
 Description: Select an appropriate version control system that meets the needs of the team. Acceptance criteria include:
 
-Version control system is integrated with the development environment.
-Version control system meets the needs of the team.
-Version control system is selected within budget constraints.
+- Version control system is integrated with the development environment.
+- Version control system meets the needs of the team.
+- Version control system is selected within budget constraints.
+
 Effort Estimate: 4 hours
 
 Assigned To: John
@@ -108,9 +113,10 @@ User Story: As a developer, I want to use a version control system so that I can
 
 Description: Set up separate branches for each team member to work on. Acceptance criteria include:
 
-Each team member has their own branch.
-Branches are set up in the version control system.
-Branches are named appropriately.
+- Each team member has their own branch.
+- Branches are set up in the version control system.
+- Branches are named appropriately.
+
 Effort Estimate: 2 hours
 
 Assigned To: Jane
@@ -129,9 +135,10 @@ User Story: As a developer, I want to be able to automatically build and test my
 
 Description: Set up a continuous integration system that automatically builds and tests code on every push. Acceptance criteria include:
 
-Continuous integration system is integrated with the development environment.
-Continuous integration system automatically builds the code on every push.
-Continuous integration system runs automated tests to verify the code.
+- Continuous integration system is integrated with the development environment.
+- Continuous integration system automatically builds the code on every push.
+- Continuous integration system runs automated tests to verify the code.
+
 Effort Estimate: 8 hours
 
 Assigned To: David
@@ -148,9 +155,10 @@ User Story: As a developer, I want to be able to automatically build and test my
 
 Description: Configure notifications so that the team is alerted if there are any issues with the continuous integration system. Acceptance criteria include:
 
-Notifications are configured for the continuous integration system.
-Notifications are sent to the appropriate team members.
-Notifications are sent for failed builds or tests.
+- Notifications are configured for the continuous integration system.
+- Notifications are sent to the appropriate team members.
+- Notifications are sent for failed builds or tests.
+
 Effort Estimate: 4 hours
 
 Assigned To: Sarah
@@ -169,9 +177,10 @@ User Story: As an operations team member, I want to be able to monitor the websi
 
 Description: Set up a monitoring system that tracks website performance and security. Acceptance criteria include:
 
-Monitoring system is integrated with the website.
-Monitoring system tracks website uptime, traffic, and error rates.
-Monitoring system tracks website security and sends alerts if there are any security issues.
+- Monitoring system is integrated with the website.
+- Monitoring system tracks website uptime, traffic, and error rates.
+- Monitoring system tracks website security and sends alerts if there are any security issues.
+
 Effort Estimate: 10 hours
 
 Assigned To: John
@@ -188,9 +197,10 @@ User Story: As an operations team member, I want to be able to monitor the websi
 
 Description: Configure logging so that all website activity is logged for analysis and troubleshooting. Acceptance criteria include:
 
-Logging system is integrated with the website.
-All website activity is logged.
-Logs can be easily accessed and analyzed.
+- Logging system is integrated with the website.
+- All website activity is logged.
+- Logs can be easily accessed and analyzed.
+
 Effort Estimate: 6 hours
 
 Assigned To: Jane
