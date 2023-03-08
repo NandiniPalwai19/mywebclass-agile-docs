@@ -1,5 +1,5 @@
-Epic 1: Develop and Implement Basic Web Template
-User Story 1: As a website user, I want the web template to be easy to navigate so that I can find the information I need quickly.
+## Epic 1: Develop and Implement Basic Web Template
+### User Story 1: As a website user, I want the web template to be easy to navigate so that I can find the information I need quickly.
 
 Task 1: Develop Navigation Menu
 
@@ -20,6 +20,7 @@ Status: Not Started
 
 Notes:
 
+
 Task 2: Test Navigation Menu
 
 User Story: As a website user, I want the web template to be easy to navigate so that I can find the information I need quickly.
@@ -39,7 +40,7 @@ Status: Not Started
 
 Notes:
 
-User Story 2: As a website user, I want the web template to be visually appealing so that I am more likely to engage with the content.
+### User Story 2: As a website user, I want the web template to be visually appealing so that I am more likely to engage with the content.
 
 Task 1: Develop Color Scheme and Typography
 
@@ -79,8 +80,8 @@ Status: Not Started
 
 Notes:
 
-Epic 2: Set Up a DevOps Process
-User Story 1: As a developer, I want to use a version control system so that I can easily collaborate with my team members.
+## Epic 2: Set Up a DevOps Process
+### User Story 1: As a developer, I want to use a version control system so that I can easily collaborate with my team members.
 
 Task 1: Select Version Control System
 
@@ -120,7 +121,7 @@ Status: Not Started
 
 Notes:
 
-User Story 2: As a developer, I want to be able to automatically build and test my code so that I can identify and fix issues quickly.
+### User Story 2: As a developer, I want to be able to automatically build and test my code so that I can identify and fix issues quickly.
 
 Task 1: Set Up Continuous Integration System
 
@@ -160,7 +161,7 @@ Status: Not Started
 
 Notes:
 
-User Story 3: As an operations team member, I want to be able to monitor the website's performance and security so that I can proactively address any issues.
+### User Story 3: As an operations team member, I want to be able to monitor the website's performance and security so that I can proactively address any issues.
 
 Task 1: Set Up Monitoring System
 
