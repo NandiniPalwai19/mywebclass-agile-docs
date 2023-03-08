@@ -4,4 +4,5 @@ You can fill in the placeholders with your own information to create a complete 
 
 
 # List initiatives related to this theme
-1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
+1. [Develop and implement a basic web template that meets legal requirements, technical standards, and user needs.](/documentation/templates/theme/initiatives/initiative_template.md)
+2. [Set up a DevOps process to support the development of the MyWebClass.org website.](/documentation/templates/theme/initiatives/initiative_template.md)
