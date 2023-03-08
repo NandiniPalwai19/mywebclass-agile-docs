@@ -5,22 +5,26 @@ Description: This epic covers the development and implementation of a basic web 
 
 Goals:
 
-Develop a web template that is easily discoverable by search engines.
-Develop a web template that meets legal requirements.
-Develop a web template that passes W3C validation and Lighthouse audits.
-Develop a web template that is optimized for user experience.
+- Develop a web template that is easily discoverable by search engines.
+- Develop a web template that meets legal requirements.
+- Develop a web template that passes W3C validation and Lighthouse audits.
+- Develop a web template that is optimized for user experience.
+
 User Stories:
 
-As a website user, I want the web template to be easy to navigate so that I can find the information I need quickly.
-As a website user, I want the web template to be visually appealing so that I am more likely to engage with the content.
-As a website administrator, I want the web template to be easily maintainable so that updates can be made efficiently.
+- As a website user, I want the web template to be easy to navigate so that I can find the information I need quickly.
+- As a website user, I want the web template to be visually appealing so that I am more likely to engage with the content.
+- As a website administrator, I want the web template to be easily maintainable so that updates can be made efficiently.
+
 Dependencies:
 
-Legal and technical approvals for web template design and implementation.
+- Legal and technical approvals for web template design and implementation.
+
 Risks:
 
-Delays in legal or technical approvals could impact the timeline.
-Changes in legal or technical requirements could impact the scope of the epic.
+- Delays in legal or technical approvals could impact the timeline.
+- Changes in legal or technical requirements could impact the scope of the epic.
+
 Estimated Effort: 20 story points
 
 Business Value: A user-friendly web template that meets legal and technical requirements will increase user engagement and satisfaction, leading to increased website traffic and potentially increased revenue.
@@ -34,22 +38,26 @@ Description: This epic covers the establishment of a DevOps process to support t
 
 Goals:
 
-Establish a process for version control and code management.
-Establish a process for continuous integration and deployment.
-Establish a process for monitoring and logging.
+- Establish a process for version control and code management.
+- Establish a process for continuous integration and deployment.
+- Establish a process for monitoring and logging.
+
 User Stories:
 
-As a developer, I want to use a version control system so that I can easily collaborate with my team members.
-As a developer, I want to be able to automatically build and test my code so that I can identify and fix issues quickly.
-As an operations team member, I want to be able to monitor the website's performance and security so that I can proactively address any issues.
+- As a developer, I want to use a version control system so that I can easily collaborate with my team members.
+- As a developer, I want to be able to automatically build and test my code so that I can identify and fix issues quickly.
+- As an operations team member, I want to be able to monitor the website's performance and security so that I can proactively address any issues.
+
 Dependencies:
 
-Technical team input on appropriate DevOps tools and technologies.
-Operations team support for DevOps process management.
+- Technical team input on appropriate DevOps tools and technologies.
+- Operations team support for DevOps process management.
+
 Risks:
 
-Delays in tool selection and implementation could impact the timeline.
-Resource constraints could impact the effectiveness of the DevOps process.
+- Delays in tool selection and implementation could impact the timeline.
+- Resource constraints could impact the effectiveness of the DevOps process.
+
 Estimated Effort: 40 story points
 
 Business Value: A robust and scalable DevOps process will facilitate effective collaboration between the development and operations teams, leading to faster deployment of new features and updates and potentially increased revenue.
